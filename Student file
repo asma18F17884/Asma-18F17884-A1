@@ -1,0 +1,4 @@
+read student id 
+read item A, item B, item C,item D 
+totdal-itemA+itemB+itemC+itemD
+print total
