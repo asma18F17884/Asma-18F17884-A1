@@ -2,3 +2,8 @@ read student id
 read item A, item B, item C,item D 
 totdal-itemA+itemB+itemC+itemD
 print total
+if total>=100 than 
+print discount 30%
+else
+no discount
+end if
